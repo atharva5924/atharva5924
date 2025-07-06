@@ -7,9 +7,8 @@
   <i>I craft scalable backends, balance real-time bugs and frontend quirks, and still make it to deadlines</i>
 </p>
 
-<p align="center">
  [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1POWs3etGxKI88UI45CTlP4LQZJfzfbqC/view?usp=drive_link)
-</p>
+
 
 
 
