@@ -33,32 +33,29 @@ Whether it's building full-stack apps, solving algorithmic challenges, or design
   "Testing": ["Jest", "Playwright", "Cypress", "testRigor"]
 }
 ```
+<h1 align="center">Hi 👋, I'm Atharva Nile</h1>
+<h3 align="center">I craft scalable backends, balance real-time bugs and frontend quirks, and still make it to deadlines.</h3>
 
-## 📈 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva5924&label=Profile%20views&color=0e75b6&style=flat" alt="atharva5924" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvanile&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=atharvanile&theme=radical" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva5924" alt="atharva5924" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/atharva5924](https://github.com/atharva5924)
+
+- 📫 How to reach me **nileatharva20@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1POWs3etGxKI88UI45CTlP4LQZJfzfbqC/view?usp=drive_link](https://drive.google.com/file/d/1POWs3etGxKI88UI45CTlP4LQZJfzfbqC/view?usp=drive_link)
+
+- ⚡ Fun fact **I’ve solved 300+ DSA problems but still enjoy debugging CSS as a stressbuster.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/atharva-nile-a50120294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-nile-a50120294" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/stackloop_777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="stackloop_777" height="30" width="40" /></a>
 </p>
 
-## 📌 Pinned Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 🧵 **[TweetTube](https://github.com/atharvanile/TweetTube)**: Backend platform combining YouTube + Twitter functionality  
-- 📊 **[PersonalFinanceVisualizer](https://github.com/atharvanile/PersonalFinanceVisualizer)**: Multi-stage visual finance tracker with budget categories and charts  
-- 📚 **[PDF Q&A](https://github.com/atharvanile/PDF-QA)**: AI-based document Q&A app using LangChain + FastAPI  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva5924&show_icons=true&locale=en&layout=compact" alt="atharva5924" /></p>
 
-## 🎯 Let’s Collaborate
-
-I love building in public, sharing ideas, and shipping real products.  
-If you're working on something cool, let's connect and make it even better 🚀
-
-📬 [LinkedIn](https://www.linkedin.com/in/atharvanile) | [Portfolio](https://atharvanile.dev) | [Mail](mailto:atharvanile@gmail.com)
-
----
-
-⚡ *“Consistency outperforms talent — every single time.”*
-
----
-
-Let me know if you want a **dark mode** version, or one that includes **visitor badges**, **Spotify**, or a **personal blog feed** as well!
