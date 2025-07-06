@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://readme-hero-image.vercel.app/api?username=atharvanile&title=Hey%2C%20I'm%20Atharva!&subtitle=Crafting%20scalable%20backends%20%7C%20Building%20cool%20products&font=Source%20Code%20Pro&theme=tokyonight" alt="Hero Banner">
-</p>
-
-
 <h1 align="center">Hey, I'm Atharva Nile 👋</h1>
 
 <p align="center">
-  <b>Backend Engineer | Problem Solver | System Design Explorer</b><br/>
-  <i>Bridging code, creativity, and community.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+%7C+Backend-First+Thinker+%7C+Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
+  <i>I craft scalable backends, balance real-time bugs and frontend quirks, and still make it to deadlines</i>
 </p>
 
 ---
@@ -64,6 +59,20 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 - 💼 LinkedIn: [Atharva Nile](https://www.linkedin.com/in/atharva-nile-a50120294)  
 - 💻 GitHub: [atharvanile](https://github.com/atharvanile)  
 
+---
+
+## 😎 My Dev Mood
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmF5cHl2ZnBrMzd2NzNpb2ZoaGRzMTRnczU2cDRoaWJ4NGsyNzFzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
+</p>
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 <p align="center">
