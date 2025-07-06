@@ -1,11 +1,17 @@
-<h1 align="center">Hey, I'm Atharva Nile 👋</h1>
+<h1 align="center">Hey, I'm Atharva Nile 👋</h1> 
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&width=780&lines=Full-Stack+Dev+%7C+Backend-Minded+%7C+Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
-
-
+</p>
+<p align="center">
   <i>I craft scalable backends, balance real-time bugs and frontend quirks, and still make it to deadlines</i>
 </p>
+
+<p align="center">
+ [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1POWs3etGxKI88UI45CTlP4LQZJfzfbqC/view?usp=drive_link)
+</p>
+
+
 
 ---
 
@@ -70,19 +76,8 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 </p>
 
 ---
-## 🕹️ My GitHub Contribution Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvanile&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=atharvanile&theme=radical" />
-</p>
 
 ---
 
