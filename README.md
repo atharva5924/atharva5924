@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Atharva Nile 👋</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Dev;Backend-Minded;Problem+Solver;Explorer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Dev+%7C+Backend-Minded+%7C+Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
 
 
   <i>I craft scalable backends, balance real-time bugs and frontend quirks, and still make it to deadlines</i>
