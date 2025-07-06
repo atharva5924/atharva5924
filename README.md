@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-hero-image.vercel.app/api?username=atharvanile&title=Hey%2C%20I'm%20Atharva!&subtitle=Crafting%20scalable%20backends%20%7C%20Building%20cool%20products&font=Source%20Code%20Pro&theme=tokyonight" alt="Hero Banner">
+</p>
+
+
 <h1 align="center">Hey, I'm Atharva Nile 👋</h1>
 
 <p align="center">
