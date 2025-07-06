@@ -5,11 +5,8 @@
 </p>
 <p align="center">
   <i>I craft scalable backends, balance real-time bugs and frontend quirks, and still make it to deadlines</i>
+ 
 </p>
-
- [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1POWs3etGxKI88UI45CTlP4LQZJfzfbqC/view?usp=drive_link)
-
-
 
 
 ---
@@ -17,6 +14,9 @@
 ## 🚀 Who Am I?
 
 I'm a final-year B.Tech CSE student at <strong>IIIT Nagpur</strong> who crafts powerful backend systems, enjoys designing efficient APIs, and loves building full-stack products that just work. From scalable chat apps to AI-powered e-commerce, I’ve shipped projects that simulate real-world loads and solve real user problems.
+
+---
+ [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1POWs3etGxKI88UI45CTlP4LQZJfzfbqC/view?usp=drive_link)
 
 ---
 
@@ -65,18 +65,6 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 - 💌 Email: [nileatharva20@gmail.com](mailto:nileatharva20@gmail.com)  
 - 💼 LinkedIn: [Atharva Nile](https://www.linkedin.com/in/atharva-nile-a50120294)  
 - 💻 GitHub: [atharvanile](https://github.com/atharvanile)  
-
----
-
-## 😎 My Dev Mood
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmF5cHl2ZnBrMzd2NzNpb2ZoaGRzMTRnczU2cDRoaWJ4NGsyNzFzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
-</p>
-
----
-
-
 
 ---
 
