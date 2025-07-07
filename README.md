@@ -39,7 +39,7 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 
 ---
 
-### 🔸 [Mernova](https://github.com/atharva5924/Chatbox-MERN) – Seamless e-Commerce  
+### 🔸 [Mernova](https://github.com/atharva5924/ecommerce-MERN) – Seamless e-Commerce  
 **Tech:** React.js • MongoDB • Express.js • Toastify  
 > Built an intuitive store with real-time order tracking and optimized page speed by 30% with lazy loading and query tuning.
 
