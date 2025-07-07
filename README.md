@@ -33,19 +33,19 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 
 ## 💼 Projects That Define Me
 
-### 🔸 TweetTube – YouTube meets Twitter  
+### 🔸 [TweetTube](https://github.com/atharva5924/TweetTube) – YouTube meets Twitter  
 **Tech:** Node.js • MongoDB • JWT • Cloudinary  
 > Engineered a backend platform to handle 20+ user uploads and tweet interactions, optimizing MongoDB queries to improve response time by 20%.
 
 ---
 
-### 🔸 Mernova – Seamless e-Commerce  
+### 🔸 [Mernova](https://github.com/atharva5924/Chatbox-MERN) – Seamless e-Commerce  
 **Tech:** React.js • MongoDB • Express.js • Toastify  
 > Built an intuitive store with real-time order tracking and optimized page speed by 30% with lazy loading and query tuning.
 
 ---
 
-### 🔸 ChatStack – Real-Time Chat Platform  
+### 🔸 [ChatStack](https://github.com/atharva5924/Chatbox-MERN)  – Real-Time Chat Platform  
 **Tech:** Socket.IO • JWT Auth • Cloudinary • MongoDB  
 > Designed a role-based chat app handling group chats, user tracking, and media sharing with backend optimizations for performance.
 
