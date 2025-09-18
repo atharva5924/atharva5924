@@ -16,7 +16,7 @@
 I'm a final-year B.Tech CSE student at <strong>IIIT Nagpur</strong> who crafts powerful backend systems, enjoys designing efficient APIs, and loves building full-stack products that just work. From scalable chat apps to AI-powered e-commerce, I’ve shipped projects that simulate real-world loads and solve real user problems.
 
 ---
- [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1POWs3etGxKI88UI45CTlP4LQZJfzfbqC/view?usp=drive_link)
+ [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1bE9sNgWTgQ3d_onObiwfar5uvY9kaWr8/view?usp=sharing)
 
 ---
 
