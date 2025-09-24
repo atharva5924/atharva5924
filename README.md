@@ -69,3 +69,5 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 ---
 
 <p align="center"><i>“Code with clarity. Build with impact. Evolve with purpose.”</i></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=atharva5924)
