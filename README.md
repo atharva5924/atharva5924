@@ -16,7 +16,7 @@
 I'm a final-year B.Tech CSE student at <strong>IIIT Nagpur</strong> who crafts powerful backend systems, enjoys designing efficient APIs, and loves building full-stack products that just work. From scalable chat apps to AI-powered e-commerce, I’ve shipped projects that simulate real-world loads and solve real user problems.
 
 ---
- [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1bE9sNgWTgQ3d_onObiwfar5uvY9kaWr8/view?usp=sharing)
+ [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1yWn5ageT5d841p0mmYTM7XmVQcj4g4Ke/view?usp=drive_link)
 
 ---
 
@@ -33,6 +33,12 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 
 ## 💼 Projects That Define Me
 
+### 🔸 [Wealthee](https://github.com/atharva5924/Wealthee)  – AI Investment Platform
+**Tech:** React.js • Node.js • Express.js • MySQL • Nodemailer • Hugging Face API
+> AI-powered full-stack app for secure investing, smart recommendations, and portfolio insights.
+
+---
+
 ### 🔸 [TweetTube](https://github.com/atharva5924/TweetTube) – YouTube meets Twitter  
 **Tech:** Node.js • MongoDB • JWT • Cloudinary  
 > Engineered a backend platform to handle 20+ user uploads and tweet interactions, optimizing MongoDB queries to improve response time by 20%.
@@ -42,12 +48,6 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 ### 🔸 [Mernova](https://github.com/atharva5924/ecommerce-MERN) – Seamless e-Commerce  
 **Tech:** React.js • MongoDB • Express.js • Toastify  
 > Built an intuitive store with real-time order tracking and optimized page speed by 30% with lazy loading and query tuning.
-
----
-
-### 🔸 [ChatStack](https://github.com/atharva5924/Chatbox-MERN)  – Real-Time Chat Platform  
-**Tech:** Socket.IO • JWT Auth • Cloudinary • MongoDB  
-> Designed a role-based chat app handling group chats, user tracking, and media sharing with backend optimizations for performance.
 
 ---
 
