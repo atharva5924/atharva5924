@@ -64,7 +64,7 @@ Concepts: [ "Data Structures", "DBMS", "OOPs", "OS", "System Design (Basic)" ]
 
 - 💌 Email: [nileatharva20@gmail.com](mailto:nileatharva20@gmail.com)  
 - 💼 LinkedIn: [Atharva Nile](https://www.linkedin.com/in/atharva-nile-a50120294)  
-- 💻 GitHub: [atharvanile](https://github.com/atharvanile)  
+- 💻 GitHub: [atharvanile](https://github.com/atharva5924)  
 
 ---
 
