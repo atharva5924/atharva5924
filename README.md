@@ -16,7 +16,7 @@ I'm a final-year B.Tech CSE student at <strong>IIIT Nagpur</strong> who crafts p
 ---
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1yWn5ageT5d841p0mmYTM7XmVQcj4g4Ke/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1wxd7DESGSic0MA0J_rTwRGfmlsgWiF2Y/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
