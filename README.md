@@ -11,7 +11,7 @@
 
 ## 🚀 Who Am I?
 
-I'm a final-year B.Tech CSE student at <strong>IIIT Nagpur</strong> who crafts powerful backend systems, enjoys designing efficient APIs, and loves building full-stack products that just work. From scalable civic tech platforms to AI-powered e-commerce, I’ve shipped projects that simulate real-world loads and solve real user problems.
+I'm B.Tech CSE passout at <strong>IIIT Nagpur</strong> who crafts powerful backend systems, enjoys designing efficient APIs, and loves building full-stack products that just work. From scalable civic tech platforms to AI-powered e-commerce, I’ve shipped projects that simulate real-world loads and solve real user problems.
 
 ---
 
